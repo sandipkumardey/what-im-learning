@@ -11,4 +11,4 @@ https://people.csail.mit.edu/rivest/pubs/RSW96.pdf
 
 https://www.youtube.com/watch?v=_X7_v0h_q3A
 
-
+https://cbea.ms/git-commit/
