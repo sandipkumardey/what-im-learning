@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=_X7_v0h_q3A
 https://cbea.ms/git-commit/
 
 https://www.youtube.com/watch?v=D5CGlFQbgnk&list=PLVKLWop9wWA9i22rY_iVkv43YF4Yt417f&index=2
+
+https://www.youtube.com/watch?v=tsTeEkzO9xc
