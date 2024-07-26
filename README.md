@@ -16,3 +16,7 @@ https://cbea.ms/git-commit/
 https://www.youtube.com/watch?v=D5CGlFQbgnk&list=PLVKLWop9wWA9i22rY_iVkv43YF4Yt417f&index=2
 
 https://www.youtube.com/watch?v=tsTeEkzO9xc
+
+https://youtu.be/W6NZfCO5SIk?si=i3vNvKcXR5yQz7gG
+
+https://www.latent.space/p/ai-engineer
